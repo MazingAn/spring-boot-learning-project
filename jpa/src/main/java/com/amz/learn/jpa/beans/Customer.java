@@ -1,4 +1,4 @@
-package com.amz.learn.learnjpa.beans;
+package com.amz.learn.jpa.beans;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

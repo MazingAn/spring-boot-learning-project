@@ -1,10 +1,10 @@
-package com.amz.learn.learnjpa;
+package com.amz.learn.jpa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LearnjpaApplicationTests {
+class JpaApplicationTests {
 
     @Test
     void contextLoads() {

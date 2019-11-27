@@ -1,7 +1,8 @@
-package com.amz.learn.learnjpa.repository;
+package com.amz.learn.jpa.repository;
 
 import java.util.List;
-import com.amz.learn.learnjpa.beans.Customer;
+
+import com.amz.learn.jpa.beans.Customer;
 import org.springframework.data.repository.CrudRepository;
 
 public interface CustomerRepository extends CrudRepository<Customer, Long> {

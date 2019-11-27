@@ -1,8 +1,8 @@
-package com.amz.learn.learnjpa.controller;
+package com.amz.learn.jpa.controller;
 
 
-import com.amz.learn.learnjpa.beans.Customer;
-import com.amz.learn.learnjpa.repository.CustomerRepository;
+import com.amz.learn.jpa.beans.Customer;
+import com.amz.learn.jpa.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
